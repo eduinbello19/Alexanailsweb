@@ -8,9 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Alexa Nails Web</title>
   </head>
   <body>
-  $END$
+    <h1>Alexa Nails Web</h1>
+    <a href="<%=request.getContextPath()%>/citas">Ver citas</a>
   </body>
 </html>
